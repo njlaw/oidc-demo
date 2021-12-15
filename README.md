@@ -39,7 +39,7 @@ Set the following environment variables:
    `Directory (tenant) ID` on the App Registration Overview page
 
 
- - `MY_APP_ADMIN_GROUP_OBJECT_ID=<objectId>`
+ - `DEMO_ROLE_GROUP_MAPPING_ADMIN==<objectId>`
 
    `Object Id` on the Azure AD group page
 
